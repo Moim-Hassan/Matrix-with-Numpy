@@ -1,0 +1,1 @@
+this project i have showed some basic NumPy operation in terms of matrix like Matrix Creation, Reshaping, Flattening, Stacking, Accessing and Modifying Elements, Addition, Subtraction, Multiplication, Transpose, Determinant, Inverse, Matrix Comparison, Matrix Statistics etc.
